@@ -248,6 +248,6 @@ h2{
 
 @media (max-width: 360px){
     #container-main{
-        height: 250vh;
+        height: 900px;
     }
 }
