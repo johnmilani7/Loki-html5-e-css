@@ -173,6 +173,9 @@ h2{
 
 @media (max-width: 730px){
 
+    .container-main{
+        height: 115vh;
+    }
 
     .conteudo{
         width: 100%;
@@ -195,7 +198,9 @@ h2{
 
 @media (max-width: 530px){
 
-
+    .container-main{
+        height: 125vh;
+    }
     .conteudo{
         width: 100%;
     }
@@ -248,7 +253,7 @@ h2{
 @media (max-width: 380px){
    
     .container-main{
-        height: 185vh;
+        height: 195vh;
     }
 
 }
