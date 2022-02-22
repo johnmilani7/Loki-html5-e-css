@@ -238,7 +238,7 @@ h2{
 
 @media (max-width: 420px){
     #time{
-        margin-top: 180px;
+        margin-top: 150px;
     }
 
     #container-main{
@@ -248,6 +248,6 @@ h2{
 
 @media (max-width: 360px){
     #container-main{
-        height: 180vh;
+        height: 220vh;
     }
 }
