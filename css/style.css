@@ -145,7 +145,7 @@ h2{
 @media (max-width: 1030px){
 
     #container-main{
-        height: 141vh;
+        height: 980px;
     }
 
     .conteudo{
@@ -223,7 +223,7 @@ h2{
 
 @media (max-width: 420px){
     #time{
-        margin-top: 120px;
+        margin-top: 50px;
     }
 
     .assistir{
